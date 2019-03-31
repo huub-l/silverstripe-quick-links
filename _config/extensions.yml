@@ -1,0 +1,6 @@
+---
+Name: silverstripe-quick-links
+---
+SilverStripe\SiteConfig\SiteConfig:
+  extensions:
+    - Huubl\Extensions\DataObjects\SiteConfigExtension
